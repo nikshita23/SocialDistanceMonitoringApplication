@@ -1,0 +1,2 @@
+# SocialDistanceMonitoringApplication
+SocialDistanceMonitoringApplication
